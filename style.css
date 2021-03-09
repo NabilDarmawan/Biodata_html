@@ -1,0 +1,30 @@
+body{
+	color: white;
+	background-color: black;
+	background-image: url('bg1.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+		.kesatu{
+			background-color: grey;
+		}
+		.hsatu{
+			background-color: grey;
+		}
+		.hadua{
+			background-color: grey;
+		}
+		.kedua{
+			background-color: grey;
+		}
+		.hatiga{
+			background-color: grey;
+		}
+		.ketiga{
+			background-color: grey;
+		}
+img{
+			border-radius: 50%;
+		}
+th {background-color: grey;}
+td {background-color: grey;}
